@@ -2,7 +2,7 @@
 
 ## Test
 
-#### **Screenshot of Pull Request **
+#### **Screenshot of Pull Request**
 
 ![image](https://github.com/user-attachments/assets/4056d065-71c8-43c3-b792-4b906892da26)
 
